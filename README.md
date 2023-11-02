@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ambasa Teferra
 - 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning Advanced Data Structures
+- 🌱 I’m currently expanding my knowleadge on Advanced Data Structures
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: ambasa.teferra@gmail.com
 
