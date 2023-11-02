@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software engineering
 - 🌱 I’m currently learning Advanced Data Structures
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: ambasa.teferra@gmail.com
 
 <!---
 Ambas-T/Ambas-T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
